@@ -32,8 +32,7 @@ Players can switch between frontline soldiers and the command bridge to issue or
 
 ---
 
-## Technical Notes
+## Notes
 
-- Recommended Unity version: 2022.3.7f1  
-- C# Language Version: C# 9  
-- Models needed: clone trooper 3D models (for playable units and enemies)
+- Recommended Unity version: 2022.3.7f1   
+- Assets needed: clone trooper model,ships,clone ui stuff,hangar decorations
