@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 91baa01ea5e1342099e8a14ef19cf43d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets/a-wing/scene.bin
+    assetPath: Assets/a-wing/scene.bin
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Dorsal_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Dorsal_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Ventral_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Ventral_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Side_1_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Side_1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Side_2_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Side_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Front_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Front_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Rear_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Rear_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Hull_Inside_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Hull_Inside_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Cockpit_Side_R_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Cockpit_Side_R_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Cockpit_Side_L_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Cockpit_Side_L_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Cockpit_Rear_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Cockpit_Rear_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Cockpit_Inside_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Cockpit_Inside_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Seat_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Seat_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Pilot_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Pilot_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Laser_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Laser_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Laser_Holder_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Laser_Holder_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Engine_L_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Engine_L_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Engine_R_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Engine_R_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Jet_Housing_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Jet_Housing_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Jet_Rear_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Jet_Rear_baseColor.jpeg
+  - type: 1
+    originalUri: Assets/a-wing/textures/Jet_Middle_baseColor.jpeg
+    assetPath: Assets/a-wing/textures/Jet_Middle_baseColor.jpeg
+  reportItems: []
