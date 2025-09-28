@@ -36,3 +36,4 @@ Players can switch between frontline soldiers and the command bridge to issue or
 
 - Recommended Unity version: 2022.3.7f1   
 - Assets needed: clone trooper model,ships,clone ui stuff,hangar decorations
+- More Devs needed as well :( 
