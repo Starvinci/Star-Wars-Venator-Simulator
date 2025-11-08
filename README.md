@@ -12,7 +12,7 @@
 
 ## Overview
 
-Venator Simulator is a Star Wars-inspired real-time strategy/tactics project currently in development. The player defends a **Venator-class Star Destroyer** against waves of droids and controls clone troopers either individually or as squad leaders.
+Venator Simulator is a Star Wars real-time strategy/tactics project currently in development. The player defends a **Venator-class Star Destroyer** against waves of droids and controls clone troopers either individually or as squad leaders.
 
 Players can switch between frontline soldiers and the command bridge to issue orders to both individual units and entire squads. Each unit has only one life, can gain experience, be equipped, and receive unique names.
 
